@@ -19,8 +19,6 @@ Email Me 👉 ✉️ **ayyanasif869@gmail.com** For Collaboration/Project or Any
 ![](https://streak-stats.demolab.com/?user=M-AyyanAsif&theme=catppuccin_latte&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=M-AyyanAsif&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=M-AyyanAsif&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
